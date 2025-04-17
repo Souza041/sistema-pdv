@@ -31,18 +31,15 @@ git clone https://github.com/seu-usuario/pdv-system.git
 cd pdv-system
 2. Instale as dependências
 bash
-Copiar
-Editar
 npm install
+
 3. Crie o banco de dados
 bash
-Copiar
-Editar
 node backend/database/seed.js
+
 4. Inicie o servidor
 bash
-Copiar
-Editar
+
 node backend/server.js
 O servidor estará disponível em: http://localhost:3000
 
@@ -68,7 +65,7 @@ Conexão com banco de dados online (PostgreSQL/MySQL)
 Impressão de recibos
 
 👨‍💻 Autor
-Desenvolvido com fins de estudo por [Souza041].
+Desenvolvido com fins de estudo por [Dhionatas Souza].
 
 📄 Licença
 Este projeto está sob a licença MIT — fique à vontade para usar, estudar e adaptar!
