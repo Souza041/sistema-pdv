@@ -16,10 +16,6 @@ Sistema PDV (Ponto de Venda) desenvolvido com fins didáticos. A aplicação per
 
 pdv-system/ ├── backend/ │ ├── controllers/ # Lógica da API │ ├── database/ # Conexão e seed do banco │ ├── routes/ # Rotas da aplicação │ ├── app.js # Configuração do Express │ └── server.js # Inicializa o servidor │ ├── frontend/ │ ├── index.html # Página principal │ ├── style.css # Estilos │ └── script.js # Funções do carrinho │ ├── package.json └── README.md
 
-yaml
-Copiar
-Editar
-
 ---
 
 ## 🚀 Como Rodar Localmente
